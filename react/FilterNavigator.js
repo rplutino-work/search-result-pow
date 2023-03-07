@@ -199,7 +199,7 @@ const FilterNavigator = ({
 
   return (
     <Fragment>
-      {loading && !mobileLayout ? (
+      {/* {loading && !mobileLayout ? (
         <div className="mv5">
           <ContentLoader
             style={{
@@ -217,7 +217,7 @@ const FilterNavigator = ({
             <rect width="100%" height="8em" y="12em" />
           </ContentLoader>
         </div>
-      ) : null}
+      ) : null} */}
 
       {mobileLayout ? (
         <div className={styles.filters}>
