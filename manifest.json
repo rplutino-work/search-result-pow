@@ -1,7 +1,7 @@
 {
-  "name": "product-summary-pow",
-  "vendor": "street47",
-  "version": "1.0.22",
+  "name": "search-result-pow",
+  "vendor": "oggimexico",
+  "version": "0.0.1",
   "title": "VTEX Search Result",
   "description": "A search result wrapper component",
   "mustUpdateAt": "2019-04-25",
